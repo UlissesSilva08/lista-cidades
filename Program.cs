@@ -16,6 +16,9 @@ namespace lista_cidades
             Console.WriteLine("Mongaguá");
             Console.WriteLine("Itanhaém");
             Console.WriteLine("Peruíbe");
+            Console.WriteLine("Iguape");
+            Console.WriteLine("Ilha Comprida");
+            Console.WriteLine("Cananéia");
         }
     }
 }
